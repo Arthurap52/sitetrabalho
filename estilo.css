@@ -25,6 +25,13 @@ div#principal {
   margin-bottom: 20px;
 }
 
+.image-test{
+  max-width: 500px;
+  max-height: 400px;
+  margin-bottom: 20px;
+  background-size: cover;
+}
+
 .flex {
   display:flex;
 }
