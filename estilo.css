@@ -19,6 +19,11 @@ div#principal {
   margin-bottom: 20px;
   background-size: cover;
 }
+.image-est{
+  max-width: 240px;
+  height: 120px;
+  margin-bottom: 20px;
+}
 
 .flex {
   display:flex;
@@ -48,7 +53,7 @@ div#principal {
 }
 
 .fundo{
-  background-color: #666;
+  background-color: #777;
   border-radius: 15px;
   padding: 15px 32px;
   cursor: pointer;
@@ -95,7 +100,7 @@ footer.footer
 
 nav#principal {
   padding: 4px;
-  background-color:#777;
+  background-color:rgb(131, 130, 130);
   font-size:1.5em;
 }
 
@@ -110,5 +115,7 @@ nav#principal a:hover {
   background-color:#00ced1;
   color:#777;
 }    
+
+
 
 
