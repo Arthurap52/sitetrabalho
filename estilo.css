@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #ccc !important;
+  background-color: #666 !important;
   font-size: 18px;
 }
 
@@ -48,7 +48,7 @@ div#principal {
 }
 
 .fundo{
-  background-color: #ccc;
+  background-color: #666;
   border-radius: 15px;
   padding: 15px 32px;
   cursor: pointer;
