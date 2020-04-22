@@ -19,6 +19,12 @@ div#principal {
   margin-bottom: 20px;
   background-size: cover;
 }
+
+.image-port{
+  max-width: 240px;
+  max-height: 170px;
+  margin: 8px;
+}
 .image-est{
   max-width: 240px;
   height: 120px;
